@@ -11,10 +11,20 @@ Create a functional mobile Calculator App.
 
 ## Ouput
 
-### Expression entered:
+### Expression entered - 1:
 
 ![Output1](./Images/output1.jpeg)
 
-### Value evaluated:
+### Value evaluated - 1:
 
-![Output1](./Images/output2.jpeg)
+![Output2](./Images/output2.jpeg)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+### Expression entered - 2:
+
+![Output3](./Images/output3.jpeg)
+
+### Value evaluated - 2:
+
+![Output4](./Images/output4.jpeg)
